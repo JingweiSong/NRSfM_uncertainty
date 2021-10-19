@@ -1,4 +1,4 @@
-The provided code is for the review of the paper 'A closed-form uncertainty propagation in non-rigid structure from motion'. It will be publicly available after the acceptance. 
+The provided code is for the review of the paper 'A closed-form uncertainty propagation in non-rigid structure from motion'.
 
      
 
